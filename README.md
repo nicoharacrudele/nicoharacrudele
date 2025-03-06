@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nicoharacrudele
-- 👀 I’m interested in Genomic Data analysis
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on genomic data analysis scripts for finding homology of a cannabis genome sample in a database of cannabis genomes (CannabisGDB)
+- 👀 I’m interested in using LLMs to reduce cognitive load
+- 🌱 I’m currently learning to use GitHub Copilot to write my code
+- 💞️ I’m looking to collaborate on Method Made
 - 📫 How to reach me ... nicoharacrudele4@gmail.com
 
 <!---
